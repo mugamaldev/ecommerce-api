@@ -42,7 +42,7 @@ routes/
 
 ⚙️ Installation & Setup
 1️⃣ Clone the project
-git clone https://github.com/USERNAME/ecommerce-mini.git
+git clone [https://github.com/USERNAME/ecommerce-mini.git](https://github.com/mugamaldev/ecommerce-api.git)
 cd ecommerce-mini
 
 2️⃣ Install dependencies
